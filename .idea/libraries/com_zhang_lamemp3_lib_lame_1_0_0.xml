@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.zhang.lamemp3:lib_lame-1.0.0">
+    <CLASSES>
+      <root url="jar://D:/cache/gradle/caches/transforms-1/files-1.1/lib_lame-1.0.0.aar/0749aca1e14845044163b45c759dc68f/jars/classes.jar!/" />
+      <root url="file://D:/cache/gradle/caches/transforms-1/files-1.1/lib_lame-1.0.0.aar/0749aca1e14845044163b45c759dc68f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/cache/gradle/caches/modules-2/files-2.1/com.zhang.lamemp3/lib_lame/1.0.0/3712e5929ad88d34ee585836098b22e17de35237/lib_lame-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
