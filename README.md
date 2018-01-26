@@ -4,12 +4,12 @@
 最近项目中用到这样的功能 在这里只单说这个View的定制
 
 - **长按录制视频 在这里实现长按最短时间的定制**
-- **点击拍照 **
+- **点击拍照**
 - **长按过程中有圆弧进度条的绘制**
 - **长按事件触发时 放大外圆 缩小内圆 ，视频录制结束时 缩小外圆，放大内圆，在这里用属性动画实现**
-
+- **效果图**
+![Download](https://github.com/zhangYanGitHub/demoa/blob/master/1.gif)
 -------------------
-
 ### 先看看需要的定制的属性
 
 	 <declare-styleable name="VideoControlView">
